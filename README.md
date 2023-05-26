@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 - Bachelor of Technology in Mechanical Engineering, [VJTI, Mumbai, India](https://vjti.ac.in/) (2019) <br>
 
 ## Key Projects 🔭
-- [Deep Reinforcement Learning based Lane Change Decision Making](https://github.com/gprajwalpoojari/Lane-Change-Decision-Making) <br>
-- [Spatial-Temporal Deep Learning Architecture for Lane Detection](https://github.com/gprajwalpoojari/Lane-Detection-using-SCNN-and-ConvLSTM) <br>
-- [Motion Planning using Probabilistic RoadMap(PRM)](https://github.com/gprajwalpoojari/PRM-Motion-Planner-for-Firefighting-Truck) <br>
-- [Autonomous Parking using A* Algorithm](https://github.com/gprajwalpoojari/Autonomous-Parking-using-A-Star-Search) <br>
-- [Multi Layered Motion Planning for Autonomous Vehicles](https://github.com/gprajwalpoojari/Multi-Layered-Navigation-System) <br>
-- [Path Planning using RRT Planner](https://github.com/gprajwalpoojari/RRT-Path-Planner) <br>
-- [Object Detection and Pose Estimation using Classical Computer Vision](https://github.com/gprajwalpoojari/Sift-Implementation) <br>
-- [Robotic Simulator with Collision Physics](https://github.com/gprajwalpoojari/Robotic-Simulator-with-Collision-Physics) <br>
+- [Deep Reinforcement Learning based Lane Change Decision Making](https://github.com/gprajwalpoojari/Lane-Change-Decision-Making) (Reinforcement Learning)
+- [Spatial-Temporal Deep Learning Architecture for Lane Detection](https://github.com/gprajwalpoojari/Lane-Detection-using-SCNN-and-ConvLSTM) (Deep Learning)
+- [Motion Planning using Probabilistic RoadMap(PRM)](https://github.com/gprajwalpoojari/PRM-Motion-Planner-for-Firefighting-Truck) (Motion Planning)
+- [Autonomous Parking using A* Algorithm](https://github.com/gprajwalpoojari/Autonomous-Parking-using-A-Star-Search) (Motion Planning)
+- [Multi Layered Motion Planning for Autonomous Vehicles](https://github.com/gprajwalpoojari/Multi-Layered-Navigation-System) (Motion Planning)
+- [Path Planning using RRT Planner](https://github.com/gprajwalpoojari/RRT-Path-Planner) (Motion Planning)
+- [Object Detection and Pose Estimation using Classical Computer Vision](https://github.com/gprajwalpoojari/Sift-Implementation) (Computer Vision)
+- [Robotic Simulator with Collision Physics](https://github.com/gprajwalpoojari/Robotic-Simulator-with-Collision-Physics) (Simulation)
 
 ## Ongoing Project
-- [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) <br>
+- [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) (Localization, Motion Planning)
 
 ## Contact 📫
 LinkedIn: [Prajwal Poojari](https://www.linkedin.com/in/prajwal-poojari-24362611a/) <br>
