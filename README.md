@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Bachelor of Technology in Mechanical Engineering, [VJTI, Mumbai, India](https://vjti.ac.in/) (2019) <br>
 
 ## Key Projects 🔭
+- [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) (Localization, Motion Planning)
 - [Deep Reinforcement Learning based Lane Change Decision Making](https://github.com/gprajwalpoojari/Lane-Change-Decision-Making) (Reinforcement Learning, Behavior Planning)
 - [Spatial-Temporal Deep Learning Architecture for Lane Detection](https://github.com/gprajwalpoojari/Lane-Detection-using-SCNN-and-ConvLSTM) (Deep Learning)
 - [Motion Planning using Probabilistic RoadMap(PRM)](https://github.com/gprajwalpoojari/PRM-Motion-Planner-for-Firefighting-Truck) (Motion Planning)
@@ -28,9 +29,9 @@ Here are some ideas to get you started:
 - [Path Planning using RRT Planner](https://github.com/gprajwalpoojari/RRT-Path-Planner) (Motion Planning)
 - [Object Detection and Pose Estimation using Classical Computer Vision](https://github.com/gprajwalpoojari/Sift-Implementation) (Computer Vision)
 - [Robotic Simulator with Collision Physics](https://github.com/gprajwalpoojari/Robotic-Simulator-with-Collision-Physics) (Simulation)
+- [Scara Robot Manipulation and Control](https://github.com/gprajwalpoojari/scara-robot.git) (Manipulation, Robot Control)
 
 ## Ongoing Project
-- [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) (Localization, Motion Planning)
 
 ## Contact 📫
 LinkedIn: [Prajwal Poojari](https://www.linkedin.com/in/prajwal-poojari-24362611a/) <br>
