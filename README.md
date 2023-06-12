@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Bachelor of Technology in Mechanical Engineering, [VJTI, Mumbai, India](https://vjti.ac.in/) (2019) <br>
 
 ## Key Projects 🔭
-- [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) (Localization, Motion Planning)
+- [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) (Sensor Fusion, Localization, Motion Planning)
 - [Deep Reinforcement Learning based Lane Change Decision Making](https://github.com/gprajwalpoojari/Lane-Change-Decision-Making) (Reinforcement Learning, Behavior Planning)
 - [Spatial-Temporal Deep Learning Architecture for Lane Detection](https://github.com/gprajwalpoojari/Lane-Detection-using-SCNN-and-ConvLSTM) (Deep Learning)
 - [Motion Planning using Probabilistic RoadMap(PRM)](https://github.com/gprajwalpoojari/PRM-Motion-Planner-for-Firefighting-Truck) (Motion Planning)
