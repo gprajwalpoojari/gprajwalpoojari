@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 - [Robotic Simulator with Collision Physics](https://github.com/gprajwalpoojari/Robotic-Simulator-with-Collision-Physics) (Simulation)
 - [Scara Robot Manipulation and Control](https://github.com/gprajwalpoojari/scara-robot.git) (Manipulation, Robot Control)
 
-## Ongoing Project
-
 ## Contact 📫
 LinkedIn: [Prajwal Poojari](https://www.linkedin.com/in/prajwal-poojari-24362611a/) <br>
 Email: gprajwalpoojari@gmail.com <br>
